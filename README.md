@@ -1,4 +1,4 @@
-# ABC Framework
+# Support the ABC Framework
 
 This project was generated with [ABC framework CLI](https://github.com/thruthesky/abcframework).
 
